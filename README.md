@@ -13,35 +13,23 @@ Responsive Design: The website is designed to work across different devices, fro
 
 
 Technologies Used
-
 HTML: Structure and content of the website.
-
 CSS: Styling to make the website visually appealing and user-friendly.
-
 JavaScript: Interactive elements like form handling and user interaction.
 
 
 Installation
-
 To view the project locally on your machine, follow these steps:
-
 Clone the repository:
-
 git clone https://github.com/yourusername/donatefood.git
-
 Navigate into the project directory:
-
 cd donatefood
-
 Open the index.html file in your browser:
-
 open index.html
 
 
 How It Works
-
 Landing Page: The website opens with a clear explanation of the importance of food management and food waste reduction.
-
 Donate Section: If a user wishes to donate food, they can fill out a simple form providing details about the type and quantity of food they want to donate.
 
 Submission Confirmation: After submitting the form, a thank-you message is displayed to the donor, confirming their donation.
