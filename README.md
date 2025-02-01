@@ -8,7 +8,9 @@ DonateFood is a website aimed at tackling food waste by allowing individuals or 
 Features
 
 Food Management Awareness: The website educates users on the importance of proper food management and the global issue of food waste.
+
 Food Donation Platform: Users can donate food easily through the website by filling out a donation form.
+
 Responsive Design: The website is designed to work across different devices, from desktops to mobile phones.
 
 
@@ -36,6 +38,7 @@ cd donatefood
 Open the index.html file in your browser:
 
 open index.html
+
 
 
 How It Works
